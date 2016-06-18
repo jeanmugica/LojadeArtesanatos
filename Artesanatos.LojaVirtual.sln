@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artesanatos.LojaVirtual.Dominio", "Artesanatos.LojaVirtual.Dominio\Artesanatos.LojaVirtual.Dominio.csproj", "{36F7D27C-E737-4884-9FC1-8EBC4C4AC8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artesanatos.LojaVirtual.Web", "Artesanatos.LojaVirtual.Web\Artesanatos.LojaVirtual.Web.csproj", "{A9747764-72B8-4F24-8CF8-A07D02FE3C5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artesanatos.LojaVirtual.UnitTest", "Artesanatos.LojaVirtual.UnitTest\Artesanatos.LojaVirtual.UnitTest.csproj", "{D39A1906-6271-470A-8C11-DB503B6A1E99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F7D27C-E737-4884-9FC1-8EBC4C4AC8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F7D27C-E737-4884-9FC1-8EBC4C4AC8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F7D27C-E737-4884-9FC1-8EBC4C4AC8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F7D27C-E737-4884-9FC1-8EBC4C4AC8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9747764-72B8-4F24-8CF8-A07D02FE3C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9747764-72B8-4F24-8CF8-A07D02FE3C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9747764-72B8-4F24-8CF8-A07D02FE3C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9747764-72B8-4F24-8CF8-A07D02FE3C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39A1906-6271-470A-8C11-DB503B6A1E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39A1906-6271-470A-8C11-DB503B6A1E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39A1906-6271-470A-8C11-DB503B6A1E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39A1906-6271-470A-8C11-DB503B6A1E99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
